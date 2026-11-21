@@ -1,0 +1,18 @@
+{
+  "name": "My Streak \u2013 Healthy Habits Tracker",
+  "short_name": "My Streak",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "description": "A private, positive daily consistency tracker.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
